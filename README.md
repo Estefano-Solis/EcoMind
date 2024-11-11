@@ -33,4 +33,4 @@ Este proyecto fue desarrollado por:
 
 ## Links
 
-- **Link de la pagina de GitHub**: https://estefano-solis.github.io/EcoMinds/
+- **Link de la pagina de GitHub**: https://estefano-solis.github.io/EcoMind/
